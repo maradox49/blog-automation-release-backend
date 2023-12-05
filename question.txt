@@ -1,0 +1,47 @@
+translate below html into Germany and translate alt of img tag too and don't change other attributes of tags
+<h2>Nueva ola de Wavegarden en Madrid para 2025</h2>
+<p>¡El surf llega a la capital española en 2025 gracias a la emocionante llegada de Wavegarden Madrid! La empresa española Wavegarden ha revelado sus planes de construir la primera playa urbana en Madrid, un anuncio que ha generado gran expectación entre los amantes del surf en la ciudad.</p>
+<h3>¿DÓNDE ESTARÁ LA WAVEGARDEN MADRID?</h3>
+<p>Aunque aún hay muchos detalles por descubrir sobre esta nueva piscina de olas, como la tecnología Wavegarden que utilizará, la ubicación ya está confirmada. <strong>La piscina de olas artificiales de Madrid se instalará en el Anillo Olímpico, cerca del estadio de fútbol del Atlético de Madrid, el Metropolitano.</strong> El Atlético de Madrid, en colaboración con inversores privados, ha destinado una parcela cercana al nuevo complejo Metropolitano para dar vida a esta playa urbana.</p>
+<p><img decoding="async" loading="lazy" class="size-large wp-image-28887 aligncenter" src="https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-1024x573.png" alt="DO?NDE ESTARA? WAVEGARDEN MADRID" width="1024" height="573" srcset="https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-1024x573.png 1024w, https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-300x168.png 300w, https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-768x430.png 768w, https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-1536x860.png 1536w, https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-2048x1146.png 2048w, https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-1080x605.png 1080w, https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-1500x840.png 1500w, https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-705x395.png 705w, https://www.singlequiver.com/enelpico/wp-content/uploads/2023/11/donde-estara-wavegarden-madrid-450x252.png 450w" sizes="(max-width: 1024px) 100vw, 1024px" title=""></p>
+<p>Según Josema Odriozola, CEO y fundador de Wavegarden, este proyecto es un hito importante que refuerza la visión de llevar el surf y su estilo de vida a lugares sin mar. En asociación con el equipo de Terras Capital, han buscado durante años la ubicación perfecta en Madrid y están emocionados de formar parte de este proyecto de Ciudad del Deporte del Atlético de Madrid.</p>
+<h3>Precio de Wavegarden Madrid</h3>
+<p>En cuanto a los precios, aún en fase de proyecto, se espera que estén<strong> en línea con la Wavegarden en Bristol</strong>, Reino Unido. Con sesiones de iniciación, niveles intermedios y avanzados, así como olas de alta calidad para surfistas experimentados, Wavegarden Madrid ofrecerá una experiencia para todos. Se anticipa que habrá opciones de bonos y, posiblemente, un bono anual para aquellos que se vuelvan adictos al surf madrileño.</p>
+<ul>
+<li>Para aquellos que se aventuren en una<strong> sesión de iniciación</strong>,<strong> el precio será de 44,4€ para adultos y 31,88€ para niño</strong>s.</li>
+<li>Para los surfistas con habilidades <strong>intermedias y avanzadas</strong>, la sesión estará valorada <strong>en 56,95€ para adultos y 44,4€ para niños.</strong></li>
+<li>Aquellos en busca de las olas de mayor calidad destinadas a <strong>surfistas experimentados</strong> tendrán una<strong> tarifa de 68,31€ para adultos y 62,62€ para niños</strong>.</li>
+</ul>
+<p>Cada sesión tiene una duración de 1 hora, y la información sobre el tipo de ola disponible en cada hora de funcionamiento se proporcionará al adquirir las entradas.</p>
+<h3>CARACTERÍSTICAS PISCINA DE OLAS MADRID</h3>
+<p>La novedad de esta piscina de olas radica en la utilización de la tecnología<strong> Wavegarden The Cove</strong>, conocida por su eficiencia y popularidad en todo el mundo. Capaz de generar hasta 1000 olas por hora de 20 tipos diferentes, con un costo por ola de tan solo 0.10€, The Cove transformará la experiencia del surf en Madrid.</p>
+<p><iframe loading="lazy" title="Wavegarden Cove Product Clip 2023" width="1080" height="608" src="https://www.youtube.com/embed/JIPEB4S4k1Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<h3>¿QUÉ TABLAS DE SURF RECOMENDAMOS PARA HACER SURF EN LA MADRID COVE?</h3>
+<p>Son muchos los surfistas profesionales a los que hemos visto surfear en la Wavegarden o en la piscina de olas de Kelly Slater. Y ahora te estarás preguntando, qué tabla de surf utilizan cuando surfean este tipo de olas? A continuación os dejamos nuestra recomendación de tablas de suf para la Wave pool Madrid:</p>
+<ul>
+<li><a href="https://www.singlequiver.com/tablas-de-surf/inferno-72-carbono">Inferno 72 Sharpeye Carbono</a></li>
+<li><a href="https://www.singlequiver.com/tablas-de-surf/firewire-mash-up-volcanic">Firewire Mash up</a></li>
+<li><a href="https://www.singlequiver.com/tablas-de-surf/slater-designs-cymatic-lft">Kelly Slater Cymatic</a></li>
+<li><a href="https://www.singlequiver.com/shortboard/kt-helix-eps-camo-carbon">KT Helix Carbon</a></li>
+<li><a href="https://www.singlequiver.com/tablas-de-surf/bradley-olympia-lc6-black">Bradley Olympia Full Carbon</a></li>
+<li><a href="https://www.singlequiver.com/tablas-de-surf/bradley-gladiator-lc6-s19">Bradley Gladiator Epoxy</a></li>
+</ul>
+<p><div class='et-box et-shadow'>
+					<div class='et-box-content'>¿Quieres saber por qué recomendamos estas tablas para surfear en una piscina de olas? La mejor tabla de surf para una piscina de olas se fabricará con materiales más ligeros y resistentes y tenderá a ser más corta en longitud con más rocker. También te recomendamos un poco más de volumen que el que llevas habitualmente.</div></div></p>
+<p>En el caso de la Wavegarden Madrid y a diferencia de la Citywave de Madrid, para la que os recomendamos tablas soft de epoxy, también es posible surfearla con tu shortboard habitual, ya que la ola tiene la suficiente potencia como para impulsarte.</p>
+<h3>WAVE GARDEN MADRID CANCELADO</h3>
+<p>Este proyecto de hacer una wavegarden en Madrid no es algo novedoso. En 2017 ya se rumoreó sobre la posibilidad de instalar una piscina de olas artificiales en Madrid. Sin embargo, el proyecto quedó paralizado poco después de que saltase la noticia. Esperamos que esta vez, el proyecto siga adelante, y hacer surf en Madrid sea posible gracias a estas nuevas tecnologías.</p>
+<h3>LA PLAYA DE MADRID</h3>
+<p>Además de la emocionante oferta de surf, Wavegarden Madrid contará con una escuela de surf, una tienda de surf, un skatepark, chiringuitos, servicios para niños y otras actividades deportivas en la playa. Este complejo se convertirá en un destino de ocio para el público en general y se espera que abra sus puertas en el primer trimestre de 2025.</p>
+<h3>MADRID CITY WAVE VS WAWEGARDEN</h3>
+<p>Actualmente la capital cuenta con otra ola artificial para poder hacer surf en Madrid. Se trata de la <a href="https://www.singlequiver.com/enelpico/surf-citywave-madrid/">Citywave</a>, que si recordáis visitamos justo antes de la que la inaguraran. Esperamos con ganas a la apertura de esta nueva Wavegarden en Madrid para poder testearla. Si te has quedado con ganas de saber más sobre otras olas artificiales, te invitamos a que leas nuestro artículo sobre<a href="https://www.singlequiver.com/enelpico/las-mejores-piscinas-de-olas-surf/"> las mejores piscinas de olas surf del mundo</a>.</p>
+<p class="x_MsoNormal"><span lang="PT-BR">Si te gustó este post te invitamos a que te<strong> suscribas a nuestro Boletín</strong>, donde puntualmente te informaremos sobre <strong>nuestras novedades.</strong></span></p>
+<p>Síguenos en</p>
+<p><a href="https://www.facebook.com/enelpico/" target="_blank" rel="noopener">Facebook</a></p>
+<p><a href="https://www.instagram.com/singlequiver_enelpico/" target="_blank" rel="noopener">Instagram</a></p>
+<p><a href="https://www.youtube.com/c/EnelpicoSingleQuiver" target="_blank" rel="noopener">Youtube</a></p>
+<p>Visita nuestra <a href="http://www.singlequiver.com/">tienda online</a></p>
+<p><strong>Suscríbete a nuestro Boletín de Noticias ? <a href="http://eepurl.com/gZAwbH" target="_blank" rel="noopener">¡AQUÍ!</a></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
